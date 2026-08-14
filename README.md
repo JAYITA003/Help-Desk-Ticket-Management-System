@@ -466,9 +466,9 @@ C#, ASP.NET Core 8, ASP.NET Core MVC, RESTful API design, Entity Framework Core,
 
 ## Author
 
-**Harshali Panchal**
+**Jayita Saikia**
 Computer Science & Engineering — Artificial Intelligence & Machine Learning
-Application No.: IN26009739
+Application No.: IN26009670
 
 ---
 
